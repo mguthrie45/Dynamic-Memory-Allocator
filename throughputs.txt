@@ -1,0 +1,2 @@
+Intel(R)Core(TM)i7-6700KCPU@4.00GHz:regular:23325
+Intel(R)Core(TM)i7-6500UCPU@2.50GHz:regular:10999
